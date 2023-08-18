@@ -1,4 +1,4 @@
-# Deel Learning Projects Sample
+# Deep Learning Projects Sample
  This repository contains a sample of independently conducted Deep Learning projects:
 
  - Image Recognition and Classification on MNIST Dataset to Predict Digits
